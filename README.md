@@ -3,10 +3,8 @@
 
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/b4/ed/01/b4ed01c8e3f066fa8a0f1c4fc26d4b1d.gif" width="350" />
-
+  <img src="https://i.pinimg.com/originals/b4/ed/01/b4ed01c8e3f066fa8a0f1c4fc26d4b1d.gif" width="350" />
 </p>
-
 ---
 
 🌱 I’m currently learning:
