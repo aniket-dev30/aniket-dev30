@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="350" alt="AI Neural Network" />
+ <img src="https://motionbgs.com/i/c/364x205/media/5597/laptop-with-code.jpg.webp" width="400" alt="Laptop with code" />
 </p>
 ---
 
