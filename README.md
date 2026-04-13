@@ -63,13 +63,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketjha&show_icons=true&theme=radical" alt="Aniket's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket-dev30&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketjha&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-dev30&theme=tokyonight"/>
 </p>
 
 ---
-
 ### 🏆 Achievements
 
 - ✅ Completed React Basics & Advanced React certifications
