@@ -3,7 +3,8 @@
 
 
 <p align="center">
- <img src="https://motionbgs.com/i/c/364x205/media/5597/laptop-with-code.jpg.webp" width="400" alt="Laptop with code" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;React+Developer;DSA+Enthusiast;&center=true&width=500&height=50">
+</p>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniket-dev30&label=Profile%20views&color=0e75b6&style=flat"/>
