@@ -32,7 +32,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=fff)
+
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
