@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Aniket Jha</h1>
-<h3 align="center">CSE (AI) Undergrad | React Developer | AI Explorer</h3>
+<h3 align="center">🚀 CSE (AI) Undergrad | React Developer | AI + Full Stack Developer</h3>
 
 
 <p align="center">
  <img src="https://motionbgs.com/i/c/364x205/media/5597/laptop-with-code.jpg.webp" width="400" alt="Laptop with code" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniket-dev30&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/aniket-dev30?label=Followers&style=social"/>
+</p>
+
 ---
 
-🌱 I’m currently learning:
+## 🧠 About Me
 
-- ⚛️ Advanced React with Vite
-- 🔥 Firebase & Gemini API for LLM apps
-- 🧮 Data Structures & Algorithms in Java 
+- 🎓 B.Tech CSE (Artificial Intelligence)
+- 💻 Building **AI-powered + Full Stack Web Applications**
+- 🚀 Focused on **DSA + System Design + Real-world Projects**
+- 🤖 Developing **RAG-based AI systems (LLMs + APIs)**
+- 🔥 Exploring **Backend architecture & system design basics**
+
 
 💡 I love building:
 - Developer tools
@@ -66,7 +74,7 @@
 
 - ✅ Completed React Basics & Advanced React certifications
 - 🎓 Specializing in Artificial Intelligence (B.Tech, CSE)
-- 🔧 Self-learning advanced DSA & AI system integration
+- 🔧 Building real-world AI + Web projects  
 
 ---
 📫 Reach me at:  
