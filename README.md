@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE (Artificial Intelligence)
-- 💻 Building **AI-powered + Full Stack Web Applications**
+- 💻 Building intelligent AI-powered Full Stack Web Applications
 - 🚀 Focused on **DSA + System Design + Real-world Projects**
 - 🤖 Developing **RAG-based AI systems (LLMs + APIs)**
 - 🔥 Exploring **Backend architecture & system design basics**
@@ -41,7 +41,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
 
 ### 🖥 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat\&logo=fastapi\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
+
 
 
 ### 📊 Machine Learning
