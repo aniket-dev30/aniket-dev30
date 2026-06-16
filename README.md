@@ -58,6 +58,31 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=fff)
 
+## 🚀 Featured Projects
+
+### 🧠 CodeFix AI
+
+An AI-powered debugging assistant that analyzes code, explains errors, and suggests optimized fixes using Generative AI.
+
+**Tech:** React.js, Node.js, Express.js, LLM APIs
+
+### 📄 AI Document Summarizer
+
+A web application that converts lengthy documents into concise AI-generated summaries.
+
+**Tech:** React.js, TypeScript, AI APIs
+
+### ✅ Task Manager App
+
+A full-stack task management application with secure CRUD operations, REST API integration, and MongoDB database connectivity.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, REST APIs
+
+### 📧 Spam Email Detector
+
+A machine learning model that classifies emails as spam or legitimate using NLP techniques.
+
+**Tech:** Python, Scikit-learn, Pandas, NumPy
 
 ---
 
@@ -78,9 +103,11 @@
 - 🔧 Building real-world AI + Web projects  
 
 ---
-📫 Reach me at:  
-**Email:** aniket.jha538@gmail.com 
-**LinkedIn:** www.linkedin.com/in/aniket-jha-732a77258  
+## 🤝 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aniket.jha538@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aniket-jha-732a77258/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/aniket-dev30)
 
 
 ---
