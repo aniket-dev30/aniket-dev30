@@ -3,15 +3,13 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;React+Developer;DSA+Enthusiast;&center=true&width=500&height=50">
-</p>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniket-dev30&label=Profile%20views&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/aniket-dev30?label=Followers&style=social"/>
+ <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Full+Stack+Developer;Building+LLM+%26+RAG+Applications;React+%26+Node.js+Enthusiast;DSA+%26+Problem+Solving&center=true&width=600&height=50">
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniket-dev30&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
 
 ## 🧠 About Me
 
