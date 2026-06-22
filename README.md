@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aniket Jha</h1>
 <h3 align="center">🚀 CSE (AI) Undergrad | React Developer | AI + Full Stack Developer</h3>
 
-
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Full+Stack+Developer;Building+LLM+%26+RAG+Applications;React+%26+Node.js+Enthusiast;DSA+%26+Problem+Solving&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Full+Stack+Developer;Building+LLM+%26+RAG+Applications;React+%26+Node.js+Enthusiast;DSA+%26+Problem+Solving&center=true&width=600&height=50">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniket-dev30&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
-
 
 ## 🧠 About Me
 
@@ -18,7 +16,6 @@
 - 🚀 Focused on **DSA + System Design + Real-world Projects**
 - 🤖 Developing **RAG-based AI systems (LLMs + APIs)**
 - 🔥 Exploring **Backend architecture & system design basics**
-
 
 💡 I love building:
 - Developer tools
@@ -30,8 +27,8 @@
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
-
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
@@ -41,25 +38,25 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
 
 ### 🖥 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat\&logo=fastapi\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
-
-
-
-### 📊 Machine Learning
+### 🤖 AI / ML
+![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat&logo=google&logoColor=fff)
 ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=fff)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=fff)
-
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=fff)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=fff)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=fff)
 
 ## 🚀 Featured Projects
@@ -106,23 +103,25 @@ A machine learning model that classifies emails as spam or legitimate using NLP 
 
 ### 🏆 Achievements
 
-- ✅ Completed React Basics & Advanced React certifications
+- 🚀 Built and deployed PromptOps AI — a full-stack Git-style version control platform for AI prompts
+- 🧠 Reduced debugging effort by ~40% with CodeFix AI's automated error analysis
+- ✅ Completed React Basics & Advanced React certifications (Meta)
 - 🎓 Specializing in Artificial Intelligence (B.Tech, CSE)
-- 🔧 Building real-world AI + Web projects  
+- 🔧 Building real-world AI + Full Stack web projects
 
 ---
+
 ## 🤝 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aniket.jha538@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aniket-jha-732a77258/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/aniket-dev30)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniket.jha538@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-jha-732a77258/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniket-dev30)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aniket-dev30.github.io/portfolio)
 
 ---
 
 ⭐️ Favorite Quote:
 
-> “The best way to predict the future is to invent it.” — Alan Kay
+> "The best way to predict the future is to invent it." — Alan Kay
 
 ---
-
