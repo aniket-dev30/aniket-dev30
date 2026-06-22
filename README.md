@@ -64,29 +64,33 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 CodeFix AI
+### 🔁 PromptOps AI
+A full-stack "version control for AI prompts" platform with Git-style versioning, semantic diffing, and side-by-side execution comparison. Features an AI-powered evaluation engine (Gemini API) to score prompt quality and client-side semantic search using Transformers.js.
 
-An AI-powered debugging assistant that analyzes code, explains errors, and suggests optimized fixes using Generative AI.
+**Tech:** React.js, TypeScript, Node.js, Express.js, PostgreSQL, Gemini API, Transformers.js
+
+**Live:** [prompt-version-control.netlify.app](https://prompt-version-control.netlify.app/)
+
+### 🧠 CodeFix AI
+An AI-powered debugging assistant that analyzes code, explains errors, and suggests optimized fixes using Generative AI. Reduced manual debugging effort by ~40% through automated analysis.
 
 **Tech:** React.js, Node.js, Express.js, LLM APIs
 
-### 📄 AI Document Summarizer
+**Live:** [codefix-ai.netlify.app](https://codefix-ai.netlify.app/)
 
-A web application that converts lengthy documents into concise AI-generated summaries.
+### 📄 AI Document Summarizer
+A web application that converts lengthy documents into concise AI-generated summaries using NLP and NLTK.
 
 **Tech:** React.js, TypeScript, AI APIs
 
-### ✅ Task Manager App
-
-A full-stack task management application with secure CRUD operations, REST API integration, and MongoDB database connectivity.
-
-**Tech:** React.js, Node.js, Express.js, MongoDB, REST APIs
+**Live:** [mellifluous-baklava-95cdf5.netlify.app](https://mellifluous-baklava-95cdf5.netlify.app/)
 
 ### 📧 Spam Email Detector
-
-A machine learning model that classifies emails as spam or legitimate using NLP techniques.
+A machine learning model that classifies emails as spam or legitimate using NLP and TF-IDF feature extraction.
 
 **Tech:** Python, Scikit-learn, Pandas, NumPy
+
+**Source:** [github.com/aniket-dev30/Spam-Email-detector](https://github.com/aniket-dev30/Spam-Email-detector)
 
 ---
 
